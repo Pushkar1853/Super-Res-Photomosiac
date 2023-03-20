@@ -11,7 +11,7 @@ This pipeline of super resolution and image stitching can also be used in making
 ## Problem Statement
 Conversion of low quality pdf images into high quality single image pdf. It has a high usability in various purposes.
 
-# Image Stitching
+## Image Stitching
 
 We used a Python package for fast and robust Image Stitching.
 
