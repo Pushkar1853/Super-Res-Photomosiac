@@ -1,6 +1,9 @@
 # Pdf-Enhancer
 Project on enhancing the pdf by super resolution and image stitching
 
+## Update:
+This pipeline of super resolution and image stitching can also be used in making high quality panorama images and also for satellite and drone images.
+
 ## Our Approach
  * The pipeline involves the application of super resolution of the uploaded pdf images
  * The enhanced images are then stiched into one image as pdf
