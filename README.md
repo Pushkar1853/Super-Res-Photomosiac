@@ -45,5 +45,6 @@ Traditional feature-based image stitching technologies rely heavily on feature d
 
 ## Papers reviewed
 * [Unsupervised Deep Image Stitching](https://arxiv.org/pdf/2106.12859)
+* [Automatic stitching of fragmented construction plans of hydraulic structures](https://doi.org/10.1002/bate.202200010 "Automatic stitching of fragmented construction plans of hydraulic structures")
 * [Pixel-wise Deep Image Stitching](https://arxiv.org/pdf/2112.06171)
 * [Deep Rectangling for Image Stitching](https://arxiv.org/pdf/2203.03831)
