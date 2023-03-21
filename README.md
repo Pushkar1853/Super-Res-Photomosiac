@@ -11,6 +11,14 @@ This pipeline of super resolution and image stitching can also be used in making
 ## Problem Statement
 Conversion of low quality pdf images into high quality single image pdf. It has a high usability in various purposes.
 
+## Image Super Resolution (Upscaling)
+<!-- ![upscaling-x4](assets/merged-dog.png) -->
+<!-- ![upscaling-x4](assets/sampled-bear-x4.png) -->
+<!-- ![upscaling-x4](assets/paper_img_1.png) -->
+<img src="assets/merged-dog.png" alt="your_alt_text" style="width: auto; height: 20%;">
+<img src="assets/sampled-bear-x4.png" alt="your_alt_text" style="width: auto; height: 20%;">
+<img src="assets/paper_img_1.png" alt="your_alt_text" style="width: auto; height: 20%;">
+
 ## Image Stitching
 
 We used a Python package for fast and robust Image Stitching.
