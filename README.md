@@ -1,4 +1,4 @@
-# Pdf-Enhancer
+# Super Resolution and Photographic Mosaic Generator
 Project on enhancing the pdf by super resolution and image stitching
 
 ## Update
